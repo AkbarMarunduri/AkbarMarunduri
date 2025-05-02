@@ -23,7 +23,7 @@ I’ve since moved into **modern Android development**, building apps with **Jet
 | ✨ UI | `Material Design`, `MotionLayout`, `Custom Drawing` |
 | 🚀 Cross-Platform | `Flutter` (learning) |
 | 🧪 Testing | `JUnit`, `Espresso` |
-| 🔧 Tools | `Android Studio`, `Git`, `Gradle` |
+| 🔧 Tools | `Android Studio`, `Git`, `Gradle`, `Maven`|
 
 ---
 
