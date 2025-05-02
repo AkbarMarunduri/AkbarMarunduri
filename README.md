@@ -49,6 +49,7 @@ Coming soon! 🔨 Working on some experimental Compose-based apps and a Flutter 
 - 💼 Open to freelance / remote Android opportunities  
 - 💬 Feel free to reach out for collaboration or just to chat tech!
 
+![AkbarMarunduri GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0095D5,100:3DDC84&height=120&section=footer"/>
 </p>
